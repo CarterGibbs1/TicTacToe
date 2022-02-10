@@ -42,5 +42,6 @@ I ran multiple simulations to make sure each game is played correctly.
 DISCUSSION:
  
 I solely used an explanation video and Wikipedia of the algorithm. I tried to interpret it using only those two resources so I could build it from the ground up.
+I feel like this project was good for myself since it reinforced my skill in recursion and algorithms.
 
 ----------------------------------------------------------------------------
